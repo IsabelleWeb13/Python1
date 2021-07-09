@@ -1,2 +1,2 @@
 # Python1
-Ici c'est le README, j'explique tout
+Premiers pas en Python. Vous pouvez voir un aperçu du résultat dans "Issues"
